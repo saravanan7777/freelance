@@ -20,7 +20,7 @@ export default function Acc() {
               </div>
             </AccordionTrigger>
             <AccordionContent className="text-slate-300 pt-4 pb-0">
-              We begin with field visits to deeply understand the nonprofit&apos;s work, challenges, and current use of 
+              We begin with field visits to deeply understand the nonprofit work, challenges, and current use of 
               technology.
             </AccordionContent>
           </AccordionItem>
@@ -36,7 +36,7 @@ export default function Acc() {
               </div>
             </AccordionTrigger>
             <AccordionContent className="text-slate-300 pt-4 pb-0">
-              We begin with field visits to deeply understand the nonprofit&apos;s work, challenges, and current use of 
+              We begin with field visits to deeply understand the nonprofit work, challenges, and current use of 
               technology.
             </AccordionContent>
           </AccordionItem>
@@ -52,7 +52,7 @@ export default function Acc() {
               </div>
             </AccordionTrigger>
             <AccordionContent className="text-slate-300 pt-4 pb-0">
-              We begin with field visits to deeply understand the nonprofit&apos;s work, challenges, and current use of 
+              We begin with field visits to deeply understand the nonprofit work, challenges, and current use of 
               technology.
             </AccordionContent>
           </AccordionItem>
@@ -68,7 +68,7 @@ export default function Acc() {
               </div>
             </AccordionTrigger>
             <AccordionContent className="text-slate-300 pt-4 pb-0">
-              We begin with field visits to deeply understand the nonprofit&apos;s work, challenges, and current use of 
+              We begin with field visits to deeply understand the nonprofit work, challenges, and current use of 
               technology.
             </AccordionContent>
           </AccordionItem>
@@ -84,7 +84,7 @@ export default function Acc() {
               </div>
             </AccordionTrigger>
             <AccordionContent className="text-slate-300 pt-4 pb-0">
-              We begin with field visits to deeply understand the nonprofit&apos;s work, challenges, and current use of 
+              We begin with field visits to deeply understand the nonprofit work, challenges, and current use of 
               technology.
             </AccordionContent>
           </AccordionItem>
